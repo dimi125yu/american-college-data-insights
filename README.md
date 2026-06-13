@@ -2,15 +2,21 @@
 
 ## Description
 
-This project is an analysis on an extracted dataset about American Post-Secondary institutions, their tuitions, and salary outcomes for various majors. The aim with this analysis is to allow people to observe cleaned, coherent data and have a tangible idea on return on investment for different majors
+This project is an analysis on an extracted dataset about American Post-Secondary institutions, their tuitions, and salary outcomes for various majors. The aim with this analysis is to allow people to observe cleaned, coherent data and have a tangible idea on return on investment for different majors.
 
-## Value Add
+## Value
 
-This provides actionable insights into the return on investment on different degrees so that American students can make an informed choice on what to major in
+This provides actionable insights into the return on investment on different degrees so that American students can make an informed choice on what to major in.
 
 ## Data Cleaning
 
 Prior to analyzing the data, it must be cleaned. This is how the process went.
+
+For starters, before altering the data it is important to have a high understanding of the data that is being analyzed.
+
+After gaining a high understanding of the data, it is important to explore the data.
+
+Once the data is explored and we have formulated some questions to explore in the data, we begin cleaning the data.
 
 ## Data Analysis
 
